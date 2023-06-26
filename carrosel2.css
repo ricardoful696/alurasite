@@ -1,0 +1,24 @@
+.estrelinhas {
+    margin-bottom: 1em;
+}
+@media screen and (min-width : 1728px){
+    display: flex;
+    gap: 10em;
+    margin: 0 18vw 3em 18vw;
+
+    .swiper{
+        width: 50%;
+        
+    }
+    .card{
+        margin-top: 5em;
+        width: 50%;
+    }
+    .descricao__titulo{
+        font-size: 28px;
+    }
+    
+    }
+
+
+
